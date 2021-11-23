@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @katiemarcks
 - 👀 I’m interested in ... coding!
-- 🌱 I’m currently learning ... HTML, CSS, and Javascript
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 🌱 I’m currently learning ... Backend Web Dev
+- 💞️ I’m looking to collaborate on ... Anything and everything!
+- 📫 How to reach me ... katiemarcks7@gmail.com
 
 <!---
 katiemarcks/katiemarcks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
