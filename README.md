@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katiemarcks
 - 👀 I’m interested in ... coding!
-- 🌱 I’m currently learning ... Backend Web Dev
+- 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... Anything and everything!
 - 📫 How to reach me ... katiemarcks7@gmail.com
 
