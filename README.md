@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katiemarcks
-- 👀 I’m interested in ... coding!
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ... Anything and everything!
+- 👀 I’m interested in ... web development!
+- 🌱 I’m currently learning ... HTML, CSS, & Javascript
+- 💞️ I’m looking to collaborate on ... The Odin Project and Turing projects.
 - 📫 How to reach me ... katiemarcks7@gmail.com
 
 <!---
