@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katiemarcks
 - 👀 I’m interested in ... web development!
-- 🌱 I’m currently learning ... HTML, CSS, & Javascript
+- 🌱 I’m currently learning ... HTML, CSS, Javascript, & React.
 - 💞️ I’m looking to collaborate on ... The Odin Project and Turing projects.
 - 📫 How to reach me ... katiemarcks7@gmail.com
 
